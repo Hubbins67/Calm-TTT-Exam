@@ -15,7 +15,7 @@ Nutanix Calm Train the Trainer Exam
 -----------------------------------
 
 Welcome to the Calm Workshop Exam! Each student will have been assigned between 5-10 slides from the "What is Calm" presentation and we will start by having you present these to the class.
-Once completed browse to the Calm Marketplace Manager, publish and clone your pre-selected blueprint. Walk us through, in as much detail as you can, everything that has been included. Be as detailed as you can.
+Once completed browse to the Calm Marketplace Manager, publish and clone your pre-selected blueprint. Walk us through everything that has been included, be as detailed as you can.
 
 
 Agenda
